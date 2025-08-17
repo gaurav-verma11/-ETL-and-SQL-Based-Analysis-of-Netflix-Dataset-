@@ -1,4 +1,6 @@
 📺 Netflix Content Analysis using SQL & ETL
+
+
 📖 Project Overview
 
 This project analyzes the Netflix Titles Dataset to uncover insights about content trends, production countries, and genres.
